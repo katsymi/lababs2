@@ -1,3 +1,4 @@
+// тест
 export function calculateAverage(data) {
     if (!Array.isArray(data) || data.length === 0) {
         return 0;
